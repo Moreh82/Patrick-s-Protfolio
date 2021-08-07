@@ -18,5 +18,6 @@ Samples/ Portfolio
 
 *https://zycrypto.com/author/patrick-murimi-kariuki/*
 
+Photo by <a href="https://unsplash.com/photos/iGYiBhdNTpE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
-
+Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
