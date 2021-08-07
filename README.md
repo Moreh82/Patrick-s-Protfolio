@@ -8,6 +8,8 @@ Education
 
 *Content Writing*
 
+*Technical Analysis*
+
 *Search Engine Optimization*
 
 Samples/ Portfolio
@@ -20,4 +22,3 @@ Samples/ Portfolio
 
 Photo by <a href="https://unsplash.com/photos/iGYiBhdNTpE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Andre Francois Mckenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Unsplash</a>
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
