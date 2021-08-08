@@ -10,6 +10,8 @@ Education
 
 *Technical Analysis*
 
+*Surfer SEO*
+
 *Search Engine Optimization*
 
 Samples/ Portfolio
